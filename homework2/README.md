@@ -1,7 +1,6 @@
-#Hacker News dataset
+# Hacker News dataset
 
-##This dataset contains the latest news scraped from the website.
-
+## This dataset contains the latest news scraped from the website.
 startingpage:'https://news.ycombinator.com/'
 
 ## Data fields
